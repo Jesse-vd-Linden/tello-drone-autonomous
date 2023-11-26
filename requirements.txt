@@ -1,0 +1,2 @@
+djitellopy
+opencv-python
