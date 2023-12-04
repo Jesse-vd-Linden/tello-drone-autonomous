@@ -1,2 +1,7 @@
-djitellopy
-opencv-python
+djitellopy2
+opencv-python==4.3.0.36
+av
+numpy
+Pillow
+transformers
+matplotlib
